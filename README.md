@@ -1,4 +1,4 @@
-### Code to manuscripts "
+### Code to manuscripts 
 ####  
 
 ### Unraveling the Molecular Basis of Substrate Specificity and Halogen Activation in Vanadium-Dependent Haloperoxidases
