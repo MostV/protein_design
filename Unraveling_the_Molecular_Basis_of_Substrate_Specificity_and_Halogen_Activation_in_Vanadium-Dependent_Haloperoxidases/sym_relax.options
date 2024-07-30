@@ -1,0 +1,12 @@
+-parser:protocol sym_relax.xml
+-out:file:scorefile sym_relax.sc
+-in:file:fullatom
+-ignore_unrecognized_res
+-use_input_sc
+-ex1
+-ex2
+-out:file:fullatom
+-no_optH false
+-out:pdb
+-parser:script_vars sym_file=symmetry_file.sym #replace with symmetry file
+
